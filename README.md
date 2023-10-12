@@ -1,6 +1,6 @@
 # Ballotpedia_Webscrape
 
-This is a webscrape script written in Python that scrapes all the social media accounts of all public officials in every state in the UNited states. The script essentially makes three different data frames. 
+This is a webscrape script written in Python that scrapes all the social media accounts of all public officials in every state in the United states. The script essentially makes three different data frames. 
 
 1) The first dataframe, the "People" Dataframe pulls all of the public officials and thier ballotpedia pages.
 2) The second dataframe, the "Socials" Dataframe pulls all of the social media accounts featured on each public officials ballotpedia page.
